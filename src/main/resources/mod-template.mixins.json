@@ -6,6 +6,7 @@
   "mixins": [
   ],
   "client": [
+    "MixinClientPlayerEntityNausea"
   ],
   "injectors": {
     "defaultRequire": 1
